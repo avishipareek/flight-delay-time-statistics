@@ -1,0 +1,1 @@
+In this project, fflight delays have been analyszed for different airlines for different causes/reasons and average statistics are displayed in form of charts, tables and visualizations.
